@@ -1,0 +1,21 @@
+{
+  "full_name": "Jin Xianwen",
+  "name": "Xianwen",
+  "current_role": "Software Engineer",
+  "location": "Padua, Italy",
+  "email": "jinxw@live.it",
+  "linkedin": "linkedin.com/in/xianwen-jin-3060a1154",
+  "specialties": [
+    "Java",
+    "Machine Learning",
+    "Data Science"
+  ],
+  "years_experience": 6,
+  "education": [
+    {
+      "degree": "Master's Degree in Computer Engineering",
+      "institution": "University of Padua",
+      "year": "2020"
+    }
+  ]
+}
